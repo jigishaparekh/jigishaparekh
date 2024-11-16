@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **jigishaparekh99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/jigisha-parekh-30a554206/</h3>
 <p align="left">
 </p>
 
