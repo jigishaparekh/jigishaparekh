@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jigisha</h1>
-<h3 align="center">A passionate firmware developer from India</h3>
+<h3 align="center"></h3>
 
-- 📫 How to reach me **jigishaparekh7@gmail.com**
+- 📫 How to reach me **jigishaparekh99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
